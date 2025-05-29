@@ -1,0 +1,6 @@
+Flask
+google-cloud-texttospeech
+google-cloud-speech
+twilio
+gspread
+oauth2client
