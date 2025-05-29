@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
+# Set default behavior to automatically normalize line endings
 * text=auto
+
+# Treat Markdown files as text
+*.md text
+
+# Treat Python files as text
+*.py text
